@@ -3,7 +3,7 @@
 Hello everybody, I have decided to start from scratch. This is because in my previous attempts, I didn't get a much contributions. Now, in this account, I will add repositories that are useful.
 Feel free to comment. Also, I don't copy code from websites. My work in this account will be genuine.
 
-<img src="code.png">
+<center><img src="code.png"></center>
 
 ### Who am I?
 
